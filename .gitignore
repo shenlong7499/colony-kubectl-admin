@@ -1,3 +1,4 @@
 .idea
 .kube
 .DS_Store
+go.sum
